@@ -1,7 +1,9 @@
 h2{
     color:rgb(241, 238, 12);
 }
-
+h3{
+    color:rgb(241, 123, 12);
+}
 body{
     background-color: #03723a;
     color: white;
